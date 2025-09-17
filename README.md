@@ -146,10 +146,9 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 
 <div align="center">
 
-**🎙️ Lyceum FM - Where Student Voices Come Alive 🎙️**
+**🎙️ Lyceum FM - Revolutionizing the Soundwaves 🎙️**
 
 *Part of Lyceum International School Nugegoda*
 
 </div>
 ---
-Made with ❤️ for Lyceum FM
