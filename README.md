@@ -126,10 +126,6 @@ We welcome contributions from the community! Feel free to:
 - 🔧 **Submit pull requests** - Contribute code improvements
 - 📖 **Improve documentation** - Help make our docs better
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the LICENSE file for details.
-
 ## 👨‍💻 Author
 
 **Created by Aken Dep** for **Lyceum FM**
