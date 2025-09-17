@@ -111,7 +111,7 @@ The script will:
 
 ## 🎬 OBS Setup
 
-1. Add Text (GDI+) sources to your scene
+1. Add Text (GDI+) or (Freetype 2) sources to your scene
 2. Check "Read from file"
 3. Select the respective output files:
    - For song name: `current_song.txt`
@@ -151,10 +151,5 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 *Part of Lyceum International School Nugegoda*
 
 </div>
-
-For support, please contact:
-- [Your Contact Information]
-- [School Contact Information]
-
 ---
 Made with ❤️ for Lyceum FM
